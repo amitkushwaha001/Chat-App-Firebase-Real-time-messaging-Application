@@ -186,6 +186,7 @@ NexChat follows the **MVVM (Model-View-ViewModel)** pattern recommended by Googl
 3. **Add `google-services.json`**
    - Download from your Firebase project console
    - Place at `app/google-services.json`
+   - **> Note:** The `google-services.json` file is not included in this repository for security reasons. Download your own file from Firebase Console and place it inside the `app/` directory before running the project.
 
 4. **Configure secrets** in `app/src/main/java/com/example/nexchat/utils/Constants.kt`:
    ```kotlin

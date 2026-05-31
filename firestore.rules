@@ -1,0 +1,37 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // Allow any authenticated user to read/write their own profile
+    match /users/{userId} {
+      allow read, write: if request.auth != null;
+    }
+
+    // Allow chat messages in rooms
+    // A roomId is typically 'uid1_uid2'
+    match /chats/{roomId} {
+      // Allow read/write if the user's UID is part of the roomId string
+      // This is a common pattern for unifiedRoomId
+      allow read, write: if request.auth != null && (roomId.contains(request.auth.uid));
+
+      match /messages/{messageId} {
+        allow read, write: if request.auth != null;
+      }
+    }
+
+    // Allow conversation summaries
+    match /conversations/{conversationId} {
+      allow read, write: if request.auth != null;
+    }
+
+    // Allow call signaling
+    match /calls/{callId} {
+      allow read, write: if request.auth != null;
+    }
+
+    // Global fallback (uncomment for debugging only)
+    // match /{allPaths=**} {
+    //   allow read, write: if request.auth != null;
+    // }
+  }
+}

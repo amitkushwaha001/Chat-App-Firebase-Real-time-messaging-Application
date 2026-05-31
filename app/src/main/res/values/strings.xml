@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">NexChat</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="login_to_your_account">Login to your account</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login">Login</string>
+    <string name="dont_have_an_account">Don\'t have an account? </string>
+    <string name="register">Register</string>
+    <string name="create_account">Create Account</string>
+    <string name="full_name">Full Name</string>
+    <string name="already_have_an_account">Already have an account? </string>
+    <string name="about">About</string>
+    <string name="update_profile">Update Profile</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="reset_password_instruction">Enter your email address to receive a password reset link.</string>
+    <string name="send_reset_link">Send Reset Link</string>
+    <string name="login_with_phone">Login with Phone</string>
+    <string name="enter_phone_subtitle">Enter your phone number to receive OTP</string>
+    <string name="phone_hint">Phone Number (e.g. +91…)</string>
+    <string name="send_otp">Send OTP</string>
+    <string name="verify_otp">Verify OTP</string>
+    <string name="otp_subtitle">Enter the 6-digit code sent to your phone</string>
+    <string name="otp_hint">OTP Code</string>
+    <string name="verify_and_login">Verify &amp; Login</string>
+    <string name="resend_code">Resend Code</string>
+    <string name="resend_code_in">Resend Code in %1$ds</string>
+    <string name="future_of_chat">The Future of Chat</string>
+    <string name="made_in_india">Made in India </string>
+    <string name="india_flag">🇮🇳</string>
+</resources>

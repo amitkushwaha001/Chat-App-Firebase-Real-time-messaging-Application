@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="primary">#FFFFFF</color>
+    <color name="primary_dark">#F0F0F0</color>
+    <color name="secondary">#F4F4F5</color>
+    <color name="accent_blue">#3390EC</color>
+    <color name="accent">#3390EC</color>
+
+    <color name="background">#FFFFFF</color>
+    <color name="surface">#FFFFFF</color>
+
+    <color name="text_primary">#000000</color>
+    <color name="text_secondary">#707579</color>
+
+    <color name="sender_bubble">#EFFDDE</color>
+    <color name="receiver_bubble">#FFFFFF</color>
+    <color name="sender_text">#000000</color>
+    <color name="receiver_text">#000000</color>
+
+    <color name="chat_bg">#DBE5D1</color>
+    <color name="online_status">#3390EC</color>
+
+    <color name="glass_white">#F0F2F5</color>
+    <color name="glass_white_heavy">#E9EDEF</color>
+
+    <color name="red">#FF595A</color>
+    <color name="dark_gray">#242F3D</color>
+    <color name="gray">#8E979E</color>
+    <color name="light_gray">#F4F4F5</color>
+    <color name="green">#4CAF50</color>
+</resources>

@@ -1,0 +1,41 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.NexChat" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/accent_blue</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/secondary</item>
+        <item name="colorOnSecondary">?attr/colorOnSurface</item>
+        <item name="android:statusBarColor">@color/primary</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowBackground">@color/background</item>
+        <item name="android:navigationBarColor">@color/background</item>
+    </style>
+
+    <style name="Theme.NexChat" parent="Base.Theme.NexChat" />
+
+    <style name="TelegramCard" parent="Widget.Material3.CardView.Filled">
+        <item name="cardBackgroundColor">@color/secondary</item>
+        <item name="cardElevation">0dp</item>
+        <item name="shapeAppearanceOverlay">@style/ShapeAppearance.NexChat.Telegram</item>
+    </style>
+
+    <style name="ShapeAppearance.NexChat.Telegram" parent="ShapeAppearance.Material3.MediumComponent">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">16dp</item>
+    </style>
+
+    <style name="TelegramMenu" parent="Widget.Material3.PopupMenu">
+        <item name="android:itemBackground">@color/secondary</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="GlassCard" parent="Widget.Material3.CardView.Filled">
+        <item name="cardBackgroundColor">@color/secondary</item>
+        <item name="cardElevation">0dp</item>
+        <item name="shapeAppearanceOverlay">@style/ShapeAppearance.NexChat.Telegram</item>
+    </style>
+
+    <style name="ShapeAppearanceOverlay.App.CornerSize50Percent" parent="">
+        <item name="cornerSize">50%</item>
+    </style>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "912090826009",
+    "firebase_url": "https://nexchat-2e447-default-rtdb.firebaseio.com",
+    "project_id": "nexchat-2e447",
+    "storage_bucket": "nexchat-2e447.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912090826009:android:1af6dfd5fd3e29bce3b188",
+        "android_client_info": {
+          "package_name": "com.example.nexchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912090826009-e4ccaavmvdsdr80qsr95grcbglc7c2qn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nexchat",
+            "certificate_hash": "b1d91d336c35b3c507ca0c04774cbb07cc20b57a"
+          }
+        },
+        {
+          "client_id": "912090826009-polqpgskgl4mst14v8av63rkfd50qhd6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmYBYpQX9P17w7Re5AZXpE3psTJ50sP6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912090826009-polqpgskgl4mst14v8av63rkfd50qhd6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

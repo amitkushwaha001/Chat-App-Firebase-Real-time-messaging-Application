@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    android:padding="20dp"
+    android:background="@color/white">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Profile Info"
+        android:textSize="22sp"
+        android:textColor="#008069"
+        android:textStyle="bold"
+        android:layout_marginTop="20dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Please provide your name and an optional profile photo"
+        android:gravity="center"
+        android:layout_marginTop="10dp"
+        android:textColor="#667781"/>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/ivSetupProfile"
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:src="@drawable/ic_user_placeholder"
+            app:civ_border_width="2dp"
+            app:civ_border_color="#008069"/>
+
+        <ImageView
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:src="@android:drawable/ic_menu_camera"
+            android:layout_alignBottom="@id/ivSetupProfile"
+            android:layout_alignRight="@id/ivSetupProfile"
+            android:background="@drawable/ic_launcher_background"
+            android:backgroundTint="#008069"
+            android:padding="5dp"
+            app:tint="@color/white" />
+    </RelativeLayout>
+
+    <EditText
+        android:id="@+id/etSetupName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Type your name here"
+        android:layout_marginTop="30dp"
+        android:padding="12dp"
+        android:background="@android:color/transparent"
+        android:drawableBottom="@android:drawable/divider_horizontal_dark"
+        android:maxLength="25"/>
+
+    <EditText
+        android:id="@+id/etSetupAbout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Hey there! I am using NexChat."
+        android:layout_marginTop="15dp"
+        android:padding="12dp"
+        android:background="@android:color/transparent"
+        android:drawableBottom="@android:drawable/divider_horizontal_dark"
+        android:maxLength="100"/>
+
+    <ProgressBar
+        android:id="@+id/setupProgressBar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:visibility="gone"/>
+
+    <Button
+        android:id="@+id/btnNext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="NEXT"
+        android:layout_marginTop="40dp"
+        android:backgroundTint="#008069"
+        android:textColor="@color/white"/>
+
+</LinearLayout>

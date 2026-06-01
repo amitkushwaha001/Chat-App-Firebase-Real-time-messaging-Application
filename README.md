@@ -2,6 +2,7 @@
 <div align="center">
 
 # 💬 NexChat
+**Logo**
 ` | `<img width="1536" height="1024" alt="NexChat Logo" src="https://github.com/user-attachments/assets/8082ccaa-59ef-48b6-aabd-cdc55332f2e4" />
 
 ### Real-Time Messaging Application for Android
@@ -347,8 +348,6 @@ NexChat/
 ---
 
 ## 📸 Screenshots
-
-> *Screenshots coming soon. To contribute screenshots, open a PR with images in a `/screenshots` folder.*
 
 | Splash | Login | Home | Chat |
 |--------|-------|------|------|

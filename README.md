@@ -350,11 +350,19 @@ NexChat/
 
 | Splash | Login | Home | Chat |
 |--------|-------|------|------|
-| `splash.png` | `login.png` | `home.png` | `chat.png` |
+| `<img width="1080" height="2340" alt="Screenshot_20260601_143709_NexChat" src="https://github.com/user-attachments/assets/54161d98-b3a0-42ca-9d6c-01ca17bc4832" />
+` | `<img width="1080" height="2340" alt="Screenshot_20260601_144109_NexChat" src="https://github.com/user-attachments/assets/a40c99cc-7880-49c7-8bef-4583e4d37c33" />
+` | `<img width="1080" height="2340" alt="Screenshot_20260601_143024_NexChat" src="https://github.com/user-attachments/assets/0e8be470-9db7-46d3-989f-0f2ddb3fd6e4" />
+` | `<img width="1080" height="2340" alt="Screenshot_20260601_143448_NexChat" src="https://github.com/user-attachments/assets/e2ce9cae-a3cd-4b4a-b60c-90e30776d718" />
+` |
 
-| Profile | Calls | Status | Settings |
+| Profile | Calls | 3 Dot Icon | Settings |
 |---------|-------|--------|----------|
-| `profile.png` | `calls.png` | `status.png` | `settings.png` |
+| `<img width="1080" height="2599" alt="Screenshot_20260601_143540_NexChat" src="https://github.com/user-attachments/assets/e10256cc-a371-417e-a063-2e5c71e0fdc3" />
+` | `<img width="1080" height="2340" alt="Screenshot_20260601_143455_NexChat" src="https://github.com/user-attachments/assets/487dd5ab-7562-4f61-998d-fa38401144e0" />
+` | `<img width="1080" height="2340" alt="Screenshot_20260601_143604_NexChat" src="https://github.com/user-attachments/assets/f931d0a4-b7c1-4611-8b4a-77adc0116c0e" />
+` | `<img width="1080" height="2340" alt="Screenshot_20260601_143525_NexChat" src="https://github.com/user-attachments/assets/ff4e8201-73ed-4231-9ab3-f813ca8f29f2" />
+` |
 
 ---
 

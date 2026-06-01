@@ -350,56 +350,46 @@ NexChat/
 ## 📸 Screenshots
 
 <div align="center">
-
 <table>
   <tr>
     <td align="center">
-      <img width="200" alt="Splash" src="<img width="1080" height="2340" alt="Screenshot_20260601_143709_NexChat" src="https://github.com/user-attachments/assets/8502b9bb-0e57-4ec8-b611-cbde699fc092" />
+      <img width="200" alt="Splash" src="<img width="1080" height="2340" alt="Screenshot_20260601_143709_NexChat" src="https://github.com/user-attachments/assets/de9cc1b7-0d2a-41c1-8982-d316fdcddbd3" />
 " />
       <br><b>Splash</b>
     </td>
     <td align="center">
-      <img width="200" alt="Login" src="<img width="1080" height="2340" alt="Screenshot_20260601_144109_NexChat" src="https://github.com/user-attachments/assets/7b5e0ab8-ef93-487a-8b25-77db3dc5124e" />
-" />
+      <img width="200" alt="Login" src="screenshots/login.jpg" />
       <br><b>Login</b>
     </td>
     <td align="center">
-      <img width="200" alt="Home" src="<img width="1080" height="2340" alt="Screenshot_20260601_143024_NexChat" src="https://github.com/user-attachments/assets/3ddf15da-7761-49e8-94f5-f0771e29ad61" />
-" />
+      <img width="200" alt="Home" src="screenshots/home.jpg" />
       <br><b>Home</b>
     </td>
     <td align="center">
-      <img width="200" alt="Chat" src="<img width="1080" height="2340" alt="Screenshot_20260601_143448_NexChat" src="https://github.com/user-attachments/assets/f5f81bcf-3a78-4216-b2bd-d742d14803ac" />
-" />
+      <img width="200" alt="Chat" src="screenshots/chat.jpg" />
       <br><b>Chat</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img width="200" alt="Profile" src="<img width="1080" height="2599" alt="Screenshot_20260601_143540_NexChat" src="https://github.com/user-attachments/assets/c6d76062-9c5c-46d6-96c2-c245be34675f" />
-" />
+      <img width="200" alt="Profile" src="screenshots/profile.jpg" />
       <br><b>Profile</b>
     </td>
     <td align="center">
-      <img width="200" alt="Voice Calls" src="<img width="1080" height="2340" alt="Screenshot_20260601_143455_NexChat" src="https://github.com/user-attachments/assets/9d35ce2b-39db-4caf-b0bf-04ad8b09069c" />
-" />
+      <img width="200" alt="Calls" src="screenshots/calls.jpg" />
       <br><b>Calls</b>
     </td>
     <td align="center">
-      <img width="200" alt="3 Dot Icon" src="<img width="1080" height="2340" alt="Screenshot_20260601_143604_NexChat" src="https://github.com/user-attachments/assets/2b3d7767-d6e7-48f5-9319-afa09978bec1" />
-" />
+      <img width="200" alt="3 Dot Icon" src="screenshots/3 Dot Icon.jpg" />
       <br><b>3 Dot Icon</b>
     </td>
     <td align="center">
-      <img width="200" alt="Settings" src="<img width="1080" height="2340" alt="Screenshot_20260601_143525_NexChat" src="https://github.com/user-attachments/assets/a8c44953-8a63-41fe-a0d9-0d55a00f0f11" />
-" />
+      <img width="200" alt="Settings" src="screenshots/settings.jpg" />
       <br><b>Settings</b>
     </td>
   </tr>
 </table>
-
 </div>
-
 ---
 
 ## 🔮 Future Enhancements

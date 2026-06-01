@@ -353,38 +353,37 @@ NexChat/
 <table>
   <tr>
     <td align="center">
-      <img width="200" alt="Splash" src="<img width="1080" height="2340" alt="Screenshot_20260601_143709_NexChat" src="https://github.com/user-attachments/assets/de9cc1b7-0d2a-41c1-8982-d316fdcddbd3" />
-" />
+      <img width="200" alt="Splash" src="https://github.com/user-attachments/assets/54161d98-b3a0-42ca-9d6c-01ca17bc4832" />
       <br><b>Splash</b>
     </td>
     <td align="center">
-      <img width="200" alt="Login" src="screenshots/login.jpg" />
+      <img width="200" alt="Login" src="https://github.com/user-attachments/assets/a40c99cc-7880-49c7-8bef-4583e4d37c33" />
       <br><b>Login</b>
     </td>
     <td align="center">
-      <img width="200" alt="Home" src="screenshots/home.jpg" />
+      <img width="200" alt="Home" src="https://github.com/user-attachments/assets/0e8be470-9db7-46d3-989f-0f2ddb3fd6e4" />
       <br><b>Home</b>
     </td>
     <td align="center">
-      <img width="200" alt="Chat" src="screenshots/chat.jpg" />
+      <img width="200" alt="Chat" src="https://github.com/user-attachments/assets/e2ce9cae-a3cd-4b4a-b60c-90e30776d718" />
       <br><b>Chat</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img width="200" alt="Profile" src="screenshots/profile.jpg" />
+      <img width="200" alt="Profile" src="https://github.com/user-attachments/assets/e10256cc-a371-417e-a063-2e5c71e0fdc3" />
       <br><b>Profile</b>
     </td>
     <td align="center">
-      <img width="200" alt="Calls" src="screenshots/calls.jpg" />
+      <img width="200" alt="Calls" src="https://github.com/user-attachments/assets/487dd5ab-7562-4f61-998d-fa38401144e0" />
       <br><b>Calls</b>
     </td>
     <td align="center">
-      <img width="200" alt="3 Dot Icon" src="screenshots/3 Dot Icon.jpg" />
+      <img width="200" alt="3 Dot Icon" src="https://github.com/user-attachments/assets/f931d0a4-b7c1-4611-8b4a-77adc0116c0e" />
       <br><b>3 Dot Icon</b>
     </td>
     <td align="center">
-      <img width="200" alt="Settings" src="screenshots/settings.jpg" />
+      <img width="200" alt="Settings" src="https://github.com/user-attachments/assets/ff4e8201-73ed-4231-9ab3-f813ca8f29f2" />
       <br><b>Settings</b>
     </td>
   </tr>

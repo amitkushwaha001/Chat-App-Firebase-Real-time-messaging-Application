@@ -23,7 +23,7 @@
 
 ## 📖 Overview
 
-NexChat is a modern, production-grade Android messaging application that delivers a seamless real-time communication experience. Built with a clean MVVM architecture, Jetpack Compose UI, and Firebase [...]
+NexChat is a modern, production-grade Android messaging application that delivers a seamless real-time communication experience. Built with a clean MVVM architecture, Jetpack Compose UI, and Firebase as the backend, NexChat supports text messaging, media sharing, audio/video calls, status updates, contact management, and comprehensive privacy controls — all in a polished, Telegram-inspired dark/light theme interface.
 
 ---
 
@@ -189,7 +189,7 @@ NexChat follows the **MVVM (Model-View-ViewModel)** pattern recommended by Googl
 3. **Add `google-services.json`**
    - Download from your Firebase project console
    - Place at `app/google-services.json`
-   - **> Note:** The `google-services.json` file is not included in this repository for security reasons. Download your own file from Firebase Console and place it inside the `app/` directory bef[...]
+   - **> Note:** The `google-services.json` file is not included in this repository for security reasons. Download your own file from Firebase Console and place it inside the `app/` directory before running the project.
 
 4. **Configure secrets** in `app/src/main/java/com/example/nexchat/utils/Constants.kt`:
    ```kotlin
@@ -226,9 +226,9 @@ Navigate to **Authentication → Sign-in method** and enable:
 - Go to **Firestore Database → Create database**
 - Start in **production mode**
 - Deploy the included rules:
-   ```bash
-   firebase deploy --only firestore:rules
-   ```
+  ```bash
+  firebase deploy --only firestore:rules
+  ```
 - Or paste the contents of `firestore.rules` in the Firebase console
 
 ### 4. Enable Firebase Cloud Messaging
@@ -236,7 +236,7 @@ Navigate to **Authentication → Sign-in method** and enable:
 - Ensure `google-services.json` includes your project's FCM configuration
 
 ### 5. Set Up Firebase App Check
-- For **debug builds**: The app automatically uses the Debug provider — check Logcat for `Enter this debug secret` to register your debug token in the Firebase console under **App Check → App[...]
+- For **debug builds**: The app automatically uses the Debug provider — check Logcat for `Enter this debug secret` to register your debug token in the Firebase console under **App Check → Apps → Manage debug tokens**
 - For **release builds**: Play Integrity is used automatically
 
 ### 6. Firestore Collections Structure
@@ -354,37 +354,45 @@ NexChat/
 <table>
   <tr>
     <td align="center">
-      <img width="200" alt="Splash" src="screenshots/splash.png" />
+      <img width="200" alt="Splash" src="<img width="1080" height="2340" alt="Screenshot_20260601_143709_NexChat" src="https://github.com/user-attachments/assets/8502b9bb-0e57-4ec8-b611-cbde699fc092" />
+" />
       <br><b>Splash</b>
     </td>
     <td align="center">
-      <img width="200" alt="Login" src="screenshots/login.png" />
+      <img width="200" alt="Login" src="<img width="1080" height="2340" alt="Screenshot_20260601_144109_NexChat" src="https://github.com/user-attachments/assets/7b5e0ab8-ef93-487a-8b25-77db3dc5124e" />
+" />
       <br><b>Login</b>
     </td>
     <td align="center">
-      <img width="200" alt="Home" src="screenshots/home.png" />
+      <img width="200" alt="Home" src="<img width="1080" height="2340" alt="Screenshot_20260601_143024_NexChat" src="https://github.com/user-attachments/assets/3ddf15da-7761-49e8-94f5-f0771e29ad61" />
+" />
       <br><b>Home</b>
     </td>
     <td align="center">
-      <img width="200" alt="Chat" src="screenshots/chat.png" />
+      <img width="200" alt="Chat" src="<img width="1080" height="2340" alt="Screenshot_20260601_143448_NexChat" src="https://github.com/user-attachments/assets/f5f81bcf-3a78-4216-b2bd-d742d14803ac" />
+" />
       <br><b>Chat</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img width="200" alt="Profile" src="screenshots/profile.png" />
+      <img width="200" alt="Profile" src="<img width="1080" height="2599" alt="Screenshot_20260601_143540_NexChat" src="https://github.com/user-attachments/assets/c6d76062-9c5c-46d6-96c2-c245be34675f" />
+" />
       <br><b>Profile</b>
     </td>
     <td align="center">
-      <img width="200" alt="Calls" src="screenshots/calls.png" />
+      <img width="200" alt="Voice Calls" src="<img width="1080" height="2340" alt="Screenshot_20260601_143455_NexChat" src="https://github.com/user-attachments/assets/9d35ce2b-39db-4caf-b0bf-04ad8b09069c" />
+" />
       <br><b>Calls</b>
     </td>
     <td align="center">
-      <img width="200" alt="3 Dot Icon" src="screenshots/3 Dot Icon.png" />
+      <img width="200" alt="3 Dot Icon" src="<img width="1080" height="2340" alt="Screenshot_20260601_143604_NexChat" src="https://github.com/user-attachments/assets/2b3d7767-d6e7-48f5-9319-afa09978bec1" />
+" />
       <br><b>3 Dot Icon</b>
     </td>
     <td align="center">
-      <img width="200" alt="Settings" src="screenshots/settings.png" />
+      <img width="200" alt="Settings" src="<img width="1080" height="2340" alt="Screenshot_20260601_143525_NexChat" src="https://github.com/user-attachments/assets/a8c44953-8a63-41fe-a0d9-0d55a00f0f11" />
+" />
       <br><b>Settings</b>
     </td>
   </tr>

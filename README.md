@@ -2,6 +2,8 @@
 <div align="center">
 
 # 💬 NexChat
+` | `<img width="1536" height="1024" alt="NexChat Logo" src="https://github.com/user-attachments/assets/8082ccaa-59ef-48b6-aabd-cdc55332f2e4" />
+
 ### Real-Time Messaging Application for Android
 
 [![Kotlin](https://img.shields.io/badge/Kotlin-1.9.x-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org)
@@ -360,6 +362,8 @@ NexChat/
 |---------|-------|--------|----------|
 | `<img width="1080" height="2599" alt="Screenshot_20260601_143540_NexChat" src="https://github.com/user-attachments/assets/e10256cc-a371-417e-a063-2e5c71e0fdc3" />
 ` | `<img width="1080" height="2340" alt="Screenshot_20260601_143455_NexChat" src="https://github.com/user-attachments/assets/487dd5ab-7562-4f61-998d-fa38401144e0" />
+` | `<img width="1080" height="2340" alt="Screenshot_20260601_143516_NexChat" src="https://github.com/user-attachments/assets/5fca6ff5-4259-4d06-8012-bb0bdf2a6a09" />
+
 ` | `<img width="1080" height="2340" alt="Screenshot_20260601_143604_NexChat" src="https://github.com/user-attachments/assets/f931d0a4-b7c1-4611-8b4a-77adc0116c0e" />
 ` | `<img width="1080" height="2340" alt="Screenshot_20260601_143525_NexChat" src="https://github.com/user-attachments/assets/ff4e8201-73ed-4231-9ab3-f813ca8f29f2" />
 ` |

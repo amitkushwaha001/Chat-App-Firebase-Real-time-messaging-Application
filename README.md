@@ -1,4 +1,4 @@
-# Chat-App-Firebase-Real-time-messaging-Application
+# NexChat – Real-Time Messaging & Video Calling Application
 <div align="center">
 
 # 💬 NexChat
